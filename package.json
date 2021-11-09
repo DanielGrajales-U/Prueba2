@@ -1,0 +1,23 @@
+{
+  "name": "prueba2",
+  "version": "1.0.0",
+  "description": "Probando y practicando creacion y pusheo de actividad de repo",
+  "main": "index.html",
+  "scripts": {
+    "dev":"lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://tiomallow01@bitbucket.org/tiomallow01/prueba2.git"
+  },
+  "author": "Dani Grajales",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://bitbucket.org/tiomallow01/prueba2/issues"
+  },
+  "homepage": "https://bitbucket.org/tiomallow01/prueba2#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
